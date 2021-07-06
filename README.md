@@ -5,7 +5,7 @@
   <a href="https://github.com/PedroLucasOM/ConditionalSpringBatch#readme" target="_blank">
     <img alt="documentation" src="https://img.shields.io/badge/documentation-yes-green.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/PedroLucasOM/ConditionalSpringBatch/graphs/commit-activity" target="_blank">
     <img alt="maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
   <a href="https://twitter.com/PedroLucasOM" target="_blank">
