@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  app:
+    build:
+      context: .
+      args:
+        FAIL_VALUE: ${FAIL_VALUE}
+    ports:
+      - 8080:8080
