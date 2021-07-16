@@ -1,3 +1,6 @@
+<h1 align="center" width="100vw">
+  <img alt="Logo: ConditionalSpringBatch" src="https://github.com/PedroLucasOM/ConditionalSpringBatch/blob/master/logo.png" />
+</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-green.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/java-11-green.svg" />
